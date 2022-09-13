@@ -16,6 +16,5 @@ The purpose of this software is to gain knowledge in installing different softwa
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [GitHub Docs - Creating and Managing Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories)
 * [Updating Git](https://phoenixnap.com/kb/how-to-update-git)
