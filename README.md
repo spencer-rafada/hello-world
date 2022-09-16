@@ -10,9 +10,9 @@ The purpose of this software is to gain knowledge in installing different softwa
 
 # Development Environment
 
-- Integrated Development Environment (IDE) - I used Visual Studio Code as my IDE since it is what I am most comfortable with. 
-- Version Control System - I used Git as my version control system to publish this sub-directory in a repository in GitHub.
-- Programming Language - I used Python 3.9.4 to fulfill the purpose of printing "Hello World".
+- Visual Studio Code
+- Python
+- Git
 
 # Useful Websites
 
