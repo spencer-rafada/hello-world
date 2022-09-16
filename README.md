@@ -11,7 +11,7 @@ The purpose of this software is to gain knowledge in installing different softwa
 # Development Environment
 
 - Visual Studio Code
-- Python
+- Python 3.10.0 64 bit
 - Git
 
 # Useful Websites
